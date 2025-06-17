@@ -1,1 +1,20 @@
-https://drive.google.com/drive/folders/1LiKxtaP5plAdttEMcs8w8F1NvYYvDj2W?usp=drive_link
+# 🎮 Alice 프로젝트 공유
+
+이 리포지토리는 Alice로 제작한 프로젝트 장면(S1~S6)을 정리한 공간입니다.  
+각 장면은 포켓몬 스타일 전투와 교수님 구조 스토리를 기반으로 구성되어 있습니다.
+
+## 📂 프로젝트 다운로드
+
+전체 프로젝트 파일은 아래 Google Drive 링크에서 다운로드 가능합니다:
+
+👉 [프로젝트 다운로드 (Google Drive)](https://drive.google.com/drive/folders/1LiKxtaP5plAdttEMcs8w8F1NvYYvDj2W?usp=sharing)
+
+## 🧾 구성 파일 설명
+
+| 파일명             | 내용 요약                           |
+|------------------|------------------------------------|
+| `#S1 finn.a2w`   | 다연이가 구조를 결심하고 출발하는 장면 |
+| `#S3 (3).a2w`     | 거리에서 교수님이 나쁜사람들에게 포위된 장면 |
+| `#S4.a2w`        | 포켓몬 스타일 전투 장면               |
+| `#S5 finn.a2w`   | 교수님이 감사 인사를 전하는 장면       |
+| `#S6 (1).a2w`     | 교수님이 보답으로 A+를 주는 마무리     |
